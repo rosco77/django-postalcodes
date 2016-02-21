@@ -5,3 +5,4 @@ Primary author:
 Contributors:
 
 * `smcoll <https://github.com/smcoll>`_
+* `Rosco <https://github.com/rosco77>`_
